@@ -1,0 +1,2 @@
+﻿"coupling_diam"= 2.5
+"plate_diam"= 4
