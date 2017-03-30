@@ -20,7 +20,7 @@
 "bearing_bolt_nut_counterbore_depth"= 10mm
 "desktop_depth"= 500mm
 "desktop_width"= 650mm
-"desktop_thickness"= 15mm
+"desktop_thickness"= 18mm
 "leg_height"=100mm
 "leg_width"=18mm
 "leg_length"=500mm
