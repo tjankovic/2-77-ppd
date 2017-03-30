@@ -1,4 +1,4 @@
-﻿"board_thickness" = 12mm
+﻿"board_thickness" = 18mm
 "way_width"= 75mm
 "way_thickness"= 50mm
 "radial_clearance"= 0.1mm
@@ -21,8 +21,8 @@
 "desktop_depth"= 500mm
 "desktop_width"= 650mm
 "desktop_thickness"= 15mm
-"leg_height"=75mm
-"leg_width"=12mm
+"leg_height"=100mm
+"leg_width"=18mm
 "leg_length"=500mm
 "lap_joint_height" = 50mm
 "lap_dowel_diameter"= 8mm
