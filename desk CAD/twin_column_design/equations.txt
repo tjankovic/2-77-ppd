@@ -12,7 +12,7 @@
 "nut_length"= 15mm
 "leadscrew_diameter"= 10mm
 "leadscrew_radial_clearance"= 1mm
-"bearing_bolt_pattern_width" = 35mm
+"bearing_bolt_pattern_width" = 30mm
 "bearing_bolt_pattern_height" = 60mm
 "desktop_bolt_pattern_width" = 30mm
 "desktop_bolt_pattern_height" = 30mm
