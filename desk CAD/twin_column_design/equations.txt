@@ -2,7 +2,7 @@
 "way_width"= 75mm
 "way_thickness"= 50mm
 "radial_clearance"= 0.1mm
-"slider_width"= "way_width"-2* "radial_clearance"
+"slider_width"= "way_width"-2* "radial_clearance" - 2*0.65
 "slider_thickness" = "way_thickness" - 2 * "radial_clearance"
 "column_width"= "way_width" + 2 * "board_thickness"
 "boxway_slot_width" = 50mm
